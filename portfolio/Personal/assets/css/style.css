@@ -238,11 +238,11 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 991px) {
   .mobile-nav-toggle {
-    display: inline-block;
+    display: block;
   }
 
   .navbar ul {
-    display: inline-block;
+    display: none;
   }
 }
 .navbar-mobile {
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
 }
 .navbar-mobile ul {
-  display: inline-block;
+  display: block;
   position: absolute;
   top: 55px;
   right: 15px;
