@@ -746,7 +746,7 @@ section .container {
   border-top: 3px solid #fff;
   border-left: 3px solid #fff;
   transition: all 0.5s ease 0s;
-  z-index: 9994;
+  z-index: 9;
 }
 .portfolio .portfolio-wrap .portfolio-info::after {
   display: block;
@@ -759,7 +759,8 @@ section .container {
   border-bottom: 3px solid #fff;
   border-right: 3px solid #fff;
   transition: all 0.5s ease 0s;
-  z-index: 9994;
+
+  z-index: 9;
 }
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
