@@ -261,6 +261,7 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   top: 15px;
   right: 15px;
+  z-index: 999;
 }
 .navbar-mobile ul {
   display: block;
@@ -273,9 +274,11 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   transition: 0.3s;
   border: 2px solid rgba(255, 255, 255, 0.2);
+  z-index: 999;
 }
 .navbar-mobile li {
   padding: 12px 20px;
+  z-index: 999;
 }
 .navbar-mobile li + li {
   margin: 0;
