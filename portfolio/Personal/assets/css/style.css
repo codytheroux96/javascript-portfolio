@@ -1020,7 +1020,7 @@ section .container {
   text-align: right;
   font-size: 13px;
   color: #fff;
-  z-index: 999999;
+  z-index: 9;
 }
 @media (max-width: 992px) {
   .cblueits {
