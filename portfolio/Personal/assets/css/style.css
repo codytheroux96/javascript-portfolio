@@ -25,7 +25,7 @@ body::before {
   top: 0;
   height: 100vh;
   z-index: -1;
-  background-image: url("../../images/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg");
+  /* background-image: url("../../images/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg"); */
 }
 @media (min-width: 1024px) {
   body::before {
