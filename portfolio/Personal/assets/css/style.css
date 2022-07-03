@@ -234,11 +234,13 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   right: 15px;
   top: 15px;
+  z-index: 999;
 }
 
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
+    z-index: 999;
   }
 
   .navbar ul {
