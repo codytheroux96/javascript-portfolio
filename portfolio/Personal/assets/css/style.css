@@ -265,14 +265,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
 }
 .navbar-mobile .mobile-nav-toggle {
-  position: absolute;
+  position: relative;
   top: 15px;
   right: 15px;
   z-index: 999;
 }
 .navbar-mobile ul {
   display: block;
-  position: absolute;
+  position: relative;
   top: 55px;
   right: 15px;
   bottom: 45px;
